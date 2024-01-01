@@ -1,3 +1,10 @@
+# Country Search
+
+This is a project that I created to get some comfortability with fetching data from APIs and specifically in JavaScript so that I can use these
+skills in other applications and get a more fundamental knowledge of how data is fetched, received, and then translated into dynamic elements on a webpage
+
+
+
 # React + TypeScript + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
